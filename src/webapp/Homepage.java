@@ -6,4 +6,7 @@ public class Homepage {
 
     //more things for homepage
     //logo
+
+    //add more things
+    // footer
 }
