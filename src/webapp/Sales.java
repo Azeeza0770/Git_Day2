@@ -6,4 +6,5 @@ public class Sales {
     //sales on everything
     // membership only
     // mmmm
+    //added holidays sales 40%
 }
